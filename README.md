@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Om Mishra
 
-<!--
-**Omm66/Omm66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Developer
 
-Here are some ideas to get you started:
+B.Tech Student  | Frontend Developer 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build responsive websites using HTML, CSS and JavaScript.
+
+---
+
+## 🛠 Skills
+
+HTML  
+CSS  
+JavaScript  
+Git & GitHub  
+Responsive Design  
+
+---
+
+## 🚀 Projects
+
+🌐 Portfolio Website  
+🎵 Spotify Clone
+📝 UltraEdit Clone
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/om-mishra-205354375/
