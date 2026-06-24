@@ -23,6 +23,7 @@ Responsive Design
 🌐 Portfolio Website  
 🎵 Spotify Clone
 📝 UltraEdit Clone
+❌ Tic-Tac-Toe Game
 
 ---
 
